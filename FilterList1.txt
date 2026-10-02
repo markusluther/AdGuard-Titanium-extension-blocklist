@@ -13,7 +13,6 @@
 ||tpc.googlesyndication.com^
 ||ssl.google-analytics.com^
 ||google-analytics.com^
-||gstatic.com^
 ||googlesyndication.com^
 ||domains.googlesyndication.com^
 ||0.fls.doubleclick.net^
